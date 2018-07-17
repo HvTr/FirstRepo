@@ -19,10 +19,7 @@ namespace Hello_Again_World
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //wijziging
-            //wijziging222
-            //wijziging333
-            //wijziging444
+            //wijziging555
         }
     }
 }
